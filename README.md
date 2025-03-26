@@ -18,6 +18,7 @@ This project is a **Local Area Network (LAN) design** for [Your College Name], c
 
 ## 📷 Network Topology  
 (Add a screenshot of your network diagram)  
+![Network Diagram](networkingpicture.png)
 
 ## 🚀 Features  
 ✅ **Optimized IP Addressing**  
