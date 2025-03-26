@@ -22,7 +22,7 @@ This project is a **Local Area Network (LAN) design** for AAU FBE Campus, create
 ✅ **Wireless Connectivity**   
 # How to Open the Packet Tracer File:
 
-1. Download the Packet Tracer project file: [network-design.pkt](./network-design.pkt)
+1. Download the Packet Tracer project file: [networkingproj.pkt](./network-design.pkt)
 2. Install **Cisco Packet Tracer** from the Cisco Networking Academy: [Packet Tracer Download](https://www.netacad.com/courses/packet-tracer)
 3. Open the `.pkt` file using **Cisco Packet Tracer**.
 
