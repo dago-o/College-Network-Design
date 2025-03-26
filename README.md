@@ -1,7 +1,7 @@
 # College Network Design
 
 ## 📌 Project Overview  
-This project is a **Local Area Network (LAN) design** for [Your College Name], created using **Cisco Packet Tracer**. It includes:  
+This project is a **Local Area Network (LAN) design** for AAU FBE Campus, created using **Cisco Packet Tracer**. It includes:  
 - **Subnetting & IP Addressing**  
 - **VLAN Implementation**  
 - **Router & Switch Configuration**  
